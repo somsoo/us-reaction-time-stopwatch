@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://us-reaction-time-stopwatch.enjoy-onepage.com/sitemap.xml
